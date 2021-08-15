@@ -1,0 +1,13 @@
+name: Moonwalk
+version: '${project.version}'
+main: you0101.minecraft.moonwalk.Moonwalk
+authors: [ you0101 ]
+description: you can moonwalk
+
+
+
+commands:
+  moonwalk:
+    description: You can moonwalk.
+
+
